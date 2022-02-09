@@ -1,0 +1,23 @@
+{
+  "name": "dayu-betest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayu1123/dayu-betest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayu1123/dayu-betest/issues"
+  },
+  "homepage": "https://github.com/dayu1123/dayu-betest#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
