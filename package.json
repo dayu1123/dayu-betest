@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/dayu1123/dayu-betest#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "ioredis": "^4.28.5",
+    "mongodb": "^4.3.1",
+    "uuid": "^8.3.2"
   }
 }
